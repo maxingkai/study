@@ -17,3 +17,8 @@
       - [花花酱](https://space.bilibili.com/9880352?fr...)
       - [小Q刷题](https://space.bilibili.com/149758?fro...)
       - [绵羊教授](https://space.bilibili.com/354892788?...)
+
+- 刷题目录
+   - 哈希
+      - [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+  
