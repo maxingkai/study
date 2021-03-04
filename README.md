@@ -22,3 +22,18 @@
    - 哈希
       - [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
   
+
+(```)
+// 获取字符串
+String a = "asd";
+char key = a.charAt(i);
+
+//map 使用
+是否包含
+if(map.containsKey(key)){
+}
+
+Map<Character, Integer> map = new HashMap();
+for(Integer num:map.values()){    
+}
+(```)
