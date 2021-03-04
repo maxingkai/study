@@ -1,4 +1,4 @@
 - redis
-      - maaa
+      maaa
 
 - mysql
