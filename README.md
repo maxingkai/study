@@ -1,11 +1,9 @@
+- Markdown
+   [语法](https://www.jianshu.com/p/191d1e21f7ed/)
+   
 - redis
-   - 233434
-   - [简书](http://jianshu.com)
-   - 
+
 - mysql
-
-
-- [Markdown](https://www.jianshu.com/p/191d1e21f7ed/)
 
 
 - 算法
@@ -13,6 +11,6 @@
    - 推荐的学习频道👍🏻
       - [Youtube ：Back To Back SWE](https://www.youtube.com/channel/UCmJz...)
    - B站：
-   - 1. 花花酱 https://space.bilibili.com/9880352?fr...
-   - 2. 小Q刷题 https://space.bilibili.com/149758?fro...
-   - 3.绵羊教授 https://space.bilibili.com/354892788?...
+      - [花花酱] (https://space.bilibili.com/9880352?fr...)
+      - [小Q刷题] (https://space.bilibili.com/149758?fro...)
+      - [绵羊教授] (https://space.bilibili.com/354892788?...)
