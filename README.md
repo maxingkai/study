@@ -1,11 +1,4 @@
 - redis
-
-
-qqqq
-   rerere
-
-
-
-maaa
+   - 233434
 
 - mysql
