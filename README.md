@@ -40,7 +40,9 @@
       - [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  
       - [两数之和](https://leetcode-cn.com/problems/two-sum/)
       
-
+   - 树
+      - [二叉搜索树 Demo](https://visualgo.net/zh/bst)
+   - 树
 
  
   
