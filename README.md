@@ -20,6 +20,7 @@
 
 - 刷题目录
    - 哈希表
+      - 考察map的使用 
       - [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
       ``` 
         public boolean isAnagram(String s, String t) {
@@ -36,8 +37,8 @@
               return true;
           }
       ```  
-      - [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
-         - 考察map的使用   
+      - [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  
+      - [两数之和](https://leetcode-cn.com/problems/two-sum/)
       
 
 
