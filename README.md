@@ -42,7 +42,7 @@
       
    - 树
       - [二叉搜索树 Demo](https://visualgo.net/zh/bst)
-   - 树
+ 
 
  
   
