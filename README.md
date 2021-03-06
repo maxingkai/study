@@ -100,5 +100,38 @@
             return res; 
       }
       ``` 
+     - 颜色标记法
+     ``` 
+      public class ColorNode{
+        String color;
+        TreeNode node;
+        ColorNode(TreeNode node, String color){
+            this.node = node;
+            this.color = color;
+        }
+    }
+
+    public List<Integer> inorderTraversal(TreeNode root) {
+        if(root == null) {
+            return new ArrayList();
+        }
+        List<Integer> res = new ArrayList();
+        Stack<ColorNode> stack = new Stack();
+        stack.add(new ColorNode(root, "white"));
+
+        while(! stack.empty()){
+            ColorNode cn = stack.pop();
+            if(cn.color.equals("white")) {
+                if(cn.node.right != null) stack.add(new ColorNode(cn.node.right, "white"));
+                stack.add(new ColorNode(cn.node, "gray"));
+                if(cn.node.left != null) stack.add(new ColorNode(cn.node.left, "white"));
+            } else {
+                res.add(cn.node.val);
+            }
+        }
+
+        return res; 
+    }
+    ``` 
  
    
