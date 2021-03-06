@@ -81,5 +81,24 @@
          那么入栈顺序必须调整为倒序，也就是右，中，左
 
          同理，如果是前序遍历，入栈顺序为 右，左，中；后序遍历，入栈顺序中，右，左
+      - [前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+      ``` 
+        public List<Integer> preorderTraversal(TreeNode root) {
+            List<Integer> res = new ArrayList();
+            Stack<TreeNode> stack = new Stack();
+            stack.add(root);
+            while(!stack.empty()){
+               TreeNode node = stack.pop();
+               res.add(node.val);
+               if(node.right != null){
+                   stack.add(node.right);
+               }
+               if(node.left != null) {
+                   stack.add(node.left);
+               }
+            }   
+            return res; 
+      }
+      ``` 
  
    
