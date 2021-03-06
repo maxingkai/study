@@ -5,21 +5,22 @@
 
 - mysql
 
-- java常用语法    
-      ```
-         //获取字符串
-         String a = "asd";
-         char key = a.charAt(i);
+- java常用语法  
+  
+```
+  //获取字符串
+  String a = "asd";
+  char key = a.charAt(i);
 
-      //map 使用
-      //是否包含
-      if(map.containsKey(key)){
-      }
+  //map 使用
+  //是否包含
+  if(map.containsKey(key)){
+  }
 
-      Map<Character, Integer> map = new HashMap();
-      for(Integer num:map.values()){    
-      }
-      ```
+  Map<Character, Integer> map = new HashMap();
+  for(Integer num:map.values()){    
+  }
+```
 
 - 好的资源
    - https://github.com/CyC2018/CS-Notes
