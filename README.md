@@ -42,7 +42,9 @@
       
    - 树
       - [二叉搜索树 Demo](https://visualgo.net/zh/bst)
- 
+      - [前序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/er-cha-shu-de-zhong-xu-bian-li-by-leetcode-solutio/)
+         - 循环遍历，利用栈
+         - 递归遍历 
 
  
   
