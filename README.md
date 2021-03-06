@@ -7,9 +7,9 @@
 
 - java常用语法    
       ```
-       //获取字符串
-       String a = "asd";
-       char key = a.charAt(i);
+         //获取字符串
+         String a = "asd";
+         char key = a.charAt(i);
 
       //map 使用
       //是否包含
