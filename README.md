@@ -5,6 +5,22 @@
 
 - mysql
 
+- java常用语法    
+      ```
+          //获取字符串
+          String a = "asd";
+          char key = a.charAt(i);
+
+          //map 使用
+          是否包含
+          if(map.containsKey(key)){
+          }
+
+          Map<Character, Integer> map = new HashMap();
+          for(Integer num:map.values()){    
+          }
+      ```
+
 - 好的资源
    - https://github.com/CyC2018/CS-Notes
    - [敖丙](https://github.com/AobingJava/JavaFamily)
@@ -47,18 +63,4 @@
          - 递归遍历 
 
  
-  
-```
-    //获取字符串
-    String a = "asd";
-    char key = a.charAt(i);
-
-    //map 使用
-    是否包含
-    if(map.containsKey(key)){
-    }
-
-    Map<Character, Integer> map = new HashMap();
-    for(Integer num:map.values()){    
-    }
-```
+   
