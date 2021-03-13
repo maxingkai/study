@@ -14,5 +14,5 @@ String（字符串）、List（列表）、Hash（哈希）、Set（集合）和
 这些只是 Redis 键值对中值的数据类型，也就是数据的保存形式。而这里，我们说的数据结构，是要去看看它们的底层实现。
 ##### 六种数据结构
 底层数据结构一共有 6 种，分别是简单动态字符串、双向链表、压缩列表、哈希表、跳表和整数数组。
-[image](https://user-images.githubusercontent.com/9994537/111020224-4310b680-83ff-11eb-9fb5-b86672ef1025.png)
+![image](https://user-images.githubusercontent.com/9994537/111020224-4310b680-83ff-11eb-9fb5-b86672ef1025.png)
 
